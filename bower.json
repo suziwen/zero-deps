@@ -1,0 +1,15 @@
+{
+  "name": "zero-dependencies",
+  "version": "1.0.0",
+  "description": "bower package compative with zeroomega",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "lib",
+    "src",
+    "package.json"
+  ]
+}
